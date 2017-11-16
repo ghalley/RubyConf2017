@@ -125,3 +125,138 @@ Mutability of a system is enhanced by the immutability of its components
 
 Accomplished with super simple interfaces.
 
+# Day 02
+
+## Keynote
+#### Andy Croll
+
+TL;DR Life is short, entropy wins.
+
+Alan Watts: "The point of the dancing is the dance."
+
+Not about the journey, but about enjoying the movement
+
+## Lending Privilege
+#### Anjuan Simmons
+
+Leonard Nimoy demanded equal pay for Nichelle Nichols, lending his privilege to her.
+
+There is real, studied, financial benefits to diversity and inclusion.
+
+The more people looking at a problem, the more likely it can be quickly and easily solved
+
+U.S. Constitution is a pull request system via amendments.
+
+## Getting Unstuck: Scientific Method for debugging
+#### Caroline Taymor
+
+Scientific Method:
+- Gather knowledge
+- ask questions
+- make a hypothesis
+- design an experiment
+- run the experiment
+- take good notes
+- make a conclusion
+- share out, or restart the process
+
+Write things down.
+
+Go over everything you actually know about a bug.
+
+start with a single question
+
+take an educated guess
+
+try something to test your guess out
+
+take notes on what you expected as well as what you got
+
+were you right or not?
+
+Share.
+
+tech.taymor.io/posts/getting-unstuck
+
+## When you thought you couldn't refactor anymore
+#### Claudio B.
+
+`Enumerable#find` - finds first for block that returns true
+`(19..99).find{|i| i%17 == 0} #> 34`
+
+speakerdeck.com/claudiob
+
+## Leadership Starts with Listening
+#### Heidi Helfand
+
+Slow down and connect
+
+Good listening can draw out other people to grow into leadership
+
+Tool #1: Levels of Listening
+
+1. Inward Focused
+    + zoning out and thining about other things
+2. Attention Out
+3. Body Language/Vibe
+
+Tool #2: Powerful Questions
+- Designed to direct curiousity
+- help them discover their own solutions
+- get them into action
+
+"What do you want?"
+"What's important about this?"
+"What's one step you can take?"
+
+"What" is a great word to use for powerful questions
+
+paraphrase what they said, forces you to process it and understand
+
+acknowledge feelings
+
+"3 before me" let 3 people speak before you do if you worry about dominating the conversation
+
+boomerangs: turning convo on yourself. Be wary of it.
+
+Pair more, using powerful questions to teach junior devs
+
+## Finding Responsibility
+#### Caleb Thompson
+
+We can be last line of defense against potentially dangerous/unethical practices.
+
+Considering worst case scenario as part of the dev process
+
+## Get Off The Tightrope
+#### Tom Stuart
+
+##### The Problem: Trying to do a big thing all at once.
+- all the things in your head
+
+##### The Symptoms
+- feels constantly stressful
+- disappear down rabbit holes, hard to see the edges of the problem
+- get too invested in early mistakes
+- learn to hate being interrupted/distracted
+- takes long time to pick up thread again
+
+##### The Causes
+- Eager to make progress
+- unsure how big it's going to be
+- unsure how far you have to go
+- belief that programmers are special
+
+##### Remedies
+- story mapping
+- use git for clean, clear history
+- small, focused commits
+- notes and conversations
+- practice explaining your train of thought
+
+Meta-strategy: notice the risk, then break it down
+
+##### Why is this important?
+- great devs are great at getting off the tightrope
+
+codon.com/get-off-the-tightrope
