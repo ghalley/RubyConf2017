@@ -260,3 +260,90 @@ Meta-strategy: notice the risk, then break it down
 - great devs are great at getting off the tightrope
 
 codon.com/get-off-the-tightrope
+
+# Day 03
+
+## Keynote: You are Insufficiently Persuasive
+#### Sandi Metz
+
+Most of our unhappiness might be from dealing with other people.
+
+"On the unhappines of software developers" study
+- 219 reasons to be unhappy
+
+A problem of persuasion
+
+1. Reciprocity
+- if I try to help, you're obligated to take it and reciprocate with same or bigger
+
+2. Consistency
+
+3. Social Proof
+- in uncertainty, do what others do
+
+4. Authority
+- like those in uniform, agree to be persuaded by their role in society
+- expertise authority
+
+5. Liking
+- people who like you are more likely to do what you want
+
+6. Scarcity
+- value of things go up when there are fewer
+
+> Weapons of Influence - Robert Cialdini
+
+###### How to Win Friends and influence people
+1. Make people like you
+2. Handling People
+3. Win People to your way of thinking
+4. Be A Leader
+
+>Act as if others are interesting, and you will eventually find them so - Sarah Mei
+
+It's how about how to achieve the goals of applications
+
+#### 3 things that motivate us
+1. Autonomy
+2. Mastery
+3. Purpose
+
+Groups might have an emotional intelligence
+- Good teams depend on how teammates treat each other
+    - when people get equal chances to speak
+    - could read more social/non-verbal cues of each other
+
+Psychological Safety
+    + people feel safe to be themselves
+
+>You are not your code
+
+## Mozart Could've Been an engineer
+#### Catherine Meyers
+bit.ly/music-code-ruby
+
+Playing an instrument linked to higher IQ
+
+music education linked to processing speech/language
+
+IBM recruited music majors to hire as programmers
+
+Sheet music is a code
+    + has to be broken down
+
+Music and code depends on patterns
+
+## Pushing Back Against Loneliness in end-of-life care
+#### Jeremy Flores
+github.com/jnf/hello-gmom
+
+#### Loneliness & Guilt
+http://bit.ly/2kujjF9
+
+#### Building the Right Thing
+A way for Barbara to consume the private conversations we often share off social media.
+
+#### Measuring the Impact
+
+Soothe problems for the people you love.
+Do what you can to protect the dignity of others.
